@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">ad4d8848-ce32-40ec-ab28-e675bc7c2f94</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ad4d8848-ce32-40ec-ab28-e675bc7c2f94</dc:identifier>
+        <dc:title>Mastering Microsoft Power BI (for pre sume)</dc:title>
+        <dc:creator opf:file-as="Greg Deckler, Brett Powell" opf:role="aut">Greg Deckler, Brett Powell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.24.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-06-13T06:34:27+00:00</dc:date>
+        <dc:description>From planning a Power BI solution to building scalable Power BI datasets and rich, interactive reports and dashboards, this comprehensive book is an end-to-end guide to Power BI.</dc:description>
+        <dc:publisher>Packt</dc:publisher>
+        <dc:language>en</dc:language>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
